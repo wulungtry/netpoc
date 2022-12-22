@@ -1,2 +1,2 @@
 # netpoc
-.NET 6 FAzure unction App POC
+.NET 6 Azure Function App CICD using Jenkins
