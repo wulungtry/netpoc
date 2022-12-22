@@ -1,2 +1,2 @@
 # netpoc
-.NET 6 Clean Architecture POC
+.NET 6 FAzure unction App POC
